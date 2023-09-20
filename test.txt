@@ -1,2 +1,1 @@
-print("hello git!")
-in hot-fix
+print("hello hot-fix!")
